@@ -1,2 +1,2 @@
 # signature-mobile
-siganture
+signature
